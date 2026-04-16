@@ -1,0 +1,16 @@
+# UE5 忽略列表
+Binaries/*
+Intermediate/*
+Saved/*
+DerivedDataCache/*
+Build/*
+
+# 忽略自动生成的 VS 文件
+.vs/
+*.sln
+*.db
+*.opendb
+
+# 忽略日志和临时配置文件
+Saved/Logs/
+Saved/Config/WindowsEditor/
